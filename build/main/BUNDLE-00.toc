@@ -1,3 +1,0 @@
-([('main',
-   '/Users/lawsonhiggins/Documents/Work/Software_Dev/Youtube_Converter/dist/main',
-   'EXECUTABLE')],)

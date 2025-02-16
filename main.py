@@ -1,11 +1,9 @@
 import yt_dlp, os
 import rumps
-import tkinter as tk
-from tkinter import simpledialog
 
 class MyApp(rumps.App):
     def __init__(self):
-        super(MyApp, self).__init__("Converter", icon="icon.svg")  # Set app name and icon
+        super(MyApp, self).__init__("🎧")  # Set app name and icon
         self.menu = ["MP3 Convert", "MP4 Convert"]  # Menu items
         
     @rumps.clicked("MP3 Convert")  # Action when clicking menu item

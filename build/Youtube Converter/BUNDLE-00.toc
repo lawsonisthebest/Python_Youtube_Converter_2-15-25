@@ -1,0 +1,4 @@
+([('Youtube Converter',
+   '/Users/lawsonhiggins/Documents/Work/Software_Dev/Youtube_Converter/dist/Youtube '
+   'Converter',
+   'EXECUTABLE')],)
